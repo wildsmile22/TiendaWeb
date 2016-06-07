@@ -47,7 +47,7 @@ function recuperar_productos() {
             <input name="business" type="hidden" value="luisfelizj8-facilitator@gmail.com">
             <input name="shopping_url" type="hidden" value="http://localhost/varios/paypal/carro/productos.php">
             <input name="currency_code" type="hidden" value="EUR">
-            <input name="return" type="hidden" value="http://localhost/varios/paypal/carro/exito.php">
+            <input name="return" type="hidden" value="http://localhost/TiendaWeb/exito.php">
             <input type='hidden' name='cancel_return' value='http://localhost/varios/paypal/carro/errorPaypal.php'>
             <input name="notify_url" type="hidden" value="http://localhost/varios/paypal/carro/paypalipn.php">
             <input name="rm" type="hidden" value="2">

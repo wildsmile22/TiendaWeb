@@ -26,7 +26,7 @@ if (isset($_POST['btn-signup'])) {
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Login & Registration System</title>
-        <link rel="stylesheet" href="sesion.css" type="text/css" />
+        <link rel="stylesheet" href="css/sesion.css" type="text/css" />
 
     </head>
     <body>
